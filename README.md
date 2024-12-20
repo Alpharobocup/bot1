@@ -1,2 +1,3 @@
 # bot1
-bot1 is a folder bot for telegram . 
+1. you can use it for your telegram bot .
+2. 
